@@ -206,7 +206,7 @@ body {
 
 /* Gallery */
 .gallery {
-    margin-top: 100px;
+    margin-top: 35px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 5px;
